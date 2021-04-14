@@ -1,6 +1,6 @@
 # Honeycombs
 
-<img src="https://www.dropbox.com/s/idp4obiaa6ewmcg/honeycombs.jpg" width="300">
+<img src="https://dl.dropboxusercontent.com/s/idp4obiaa6ewmcg/honeycombs.jpg" width="300">
 
 This repository only contains the mathematica worksheet that was used to calculate the vertices and edges that have been used in the animations
 I just occasionally use mathematica, therefore I'm glad about improvements or recommendations
